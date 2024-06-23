@@ -13,5 +13,6 @@ public class ParImpar {
 				System.out.println("IMPAR");
 			}
 		}
+		scan.close();
 	}
 }
